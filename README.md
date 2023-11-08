@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rabin-111
-- 👀 I’m interested in ...DSA||C++||CYBER SECURITY||DATA SCIENCE||MACHINE LEARNING
+- 👀 I’m interested in ...DSA||C++||MERN stack||CYBER SECURITY||DATA SCIENCE||MACHINE LEARNING
 - 
 - 🌱 I’m currently learning ...DSA 
 - 💞️ I’m looking to collaborate on ...

@@ -3,7 +3,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabin-111" alt="rabin-111" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs and Nextjs**
-
 - 📫 How to reach me **https://www.linkedin.com/in/rabin-poudel-5852761a2/**
 
 <h3 align="left">Connect with me:</h3>
